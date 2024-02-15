@@ -1,1 +1,1 @@
-<img src="./assets/images/herobanner.png">
+<img src="./assets/images/haruhiro.png" align="left">
