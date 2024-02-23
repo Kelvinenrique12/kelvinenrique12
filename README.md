@@ -1,5 +1,4 @@
 https://github.com/Kelvinenrique12/kelvinenrique12/assets/145384208/7f917b98-586d-40a7-9047-4adcc8c86684
-https://github.com/Kelvinenrique12/kelvinenrique12/assets/145384208/7f917b98-586d-40a7-9047-4adcc8c86684
 <h1 align="center">Hola 👋, soy kelvin enrique, soy amigable y me gusta el anime ❤༼ つ ◕_◕ ༽つ</h1>
 <h3 align="center">Soy un desarrollador feontend, Me gusta usar Python, ¿necesitas ayuda? Estaré aquí👾</h3>
 
